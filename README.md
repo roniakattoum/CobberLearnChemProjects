@@ -4,3 +4,7 @@ that alkane on the y-axis. It generates a properly labeled graph
 using Matplotlib.
 This is part of the CobberLearnChem Machine Learning course
 through Concordia College.
+
+Alongside my public coding projects, I’m keeping a private
+ethics portfolio where I reflect on what I’m learning and how
+it’s shaping the kind of scientist I want to become.
